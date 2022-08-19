@@ -1,7 +1,11 @@
-# **Paytm Website Clone (Tailwind CSS) ** [![demo](https://img.shields.io/badge/PaytmClone-Live-orange)](https://dainty-paletas-c4fdd6.netlify.app/)
+# **Paytm Website Clone (Tailwind CSS)** [![demo](https://img.shields.io/badge/PaytmClone-Live-orange)](https://dainty-paletas-c4fdd6.netlify.app/)
 
 
-> This is my 1st project while learning tailwind css. This project is build using HTML and Tailwind CSS Only.
+> This is my 1st project of my learning Tailwind CSS journey. This project is build using HTML and Tailwind CSS Only.
+
+### 🛠 Tech stack used
+- HTML
+- Tailwind CSS
 
 ![Time taken](https://img.shields.io/badge/TIME%20TAKEN-7hrs-orange)
 
